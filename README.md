@@ -1,4 +1,4 @@
-### Hi there I am Ujan Pradhan 👋
+### 👋 Hi there I am Ujan Pradhan 
 
 <!--
 - 🔭 I’m currently working on: Front End Development,Python and C++
