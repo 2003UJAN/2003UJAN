@@ -2,7 +2,7 @@
  Hey there, I'm Ujan! <br> I'm 19 years old. I'm from Kolkata currently living in Chennai.<br> I'm a student at SRMIST pursuing Computer Science Engineering. I'm passionate about Web development and coding. <br> On the side I'm exploring Machine Learning and other latest tech stuffs<br><br>🔭 I’m currently working on : Front-End Development<br>🌱 I’m currently learning : Machine Learning & React.js<br>💬 Ask me about : Anything<br>⚡ Fun fact : I'm more productive at night
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ujan8673/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujan-pradhan-9366a9248/) 
 
 # 💻 Tech Stack:
